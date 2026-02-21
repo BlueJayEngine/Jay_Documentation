@@ -8,7 +8,7 @@ description: Jay Documentation
 
 Here you can find info about the Jay engine itself and its modules.
 
-## Main topics:
+## Modules
 
-- [Jay Math](/jay_math)
-- [Jay ECS](jay_ecs) 
+- [Jay Math](/jay_math) — Vectors, matrices, rotations, and scalar math. SIMD-accelerated, compile-time codegen.
+- [Jay ECS](/jay_ecs) — Archetype-based Entity Component System. Components are structs, systems are procedures.
